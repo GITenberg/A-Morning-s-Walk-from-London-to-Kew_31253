@@ -1,0 +1,29 @@
+_repo: A-Morning-s-Walk-from-London-to-Kew_31253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillips, R. (Richard), Sir
+    alias: Phillips, Richard, Sir
+    birthdate: 1767
+    deathdate: 1840
+    gutenberg_agent_id: '35100'
+    url: http://www.gutenberg.org/2009/agents/35100
+    wikipedia: http://en.wikipedia.org/wiki/Sir_Richard_Phillips
+description: ''
+gutenberg_issued: '2010-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31253'
+  lccn: '03011616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+title: A Morning's Walk from London to Kew
+url: http://www.gutenberg.org/ebooks/31253
